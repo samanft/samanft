@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there! :)
 
-I'm Saman, a Software Engineering student with a passion for Front-end web developemnt. Welcome to my GitHub profile!
+I'm Saman, a Software Engineering student with a passion for Front-end web development. Welcome to my GitHub profile!
 
 ---
 
