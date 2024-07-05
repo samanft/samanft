@@ -9,7 +9,11 @@ Here are some of the projects I've been working on recently:
 
 ### DTT assessment frontend
 A dynamic house listings web application for browsing, creating, editing, and deleting real estate listings, developed as part of an assessment for Digital agency DTT.
-[346074073-de034005-e525-435d-93dd-ac127fe9a7fe.webm](https://github.com/samanft/samanft/assets/25375434/bef8c295-3781-466c-a910-3ce5fa9dc258)
+
+
+https://github.com/samanft/samanft/assets/25375434/fa04ac3f-b2a2-4473-b9d3-146f4318e8e4
+
+
 
 
 ### Team Pokédex
