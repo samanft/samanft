@@ -9,15 +9,24 @@ Here are some of the projects I've been working on recently:
 
 ### DTT assessment frontend
 A dynamic house listings web application for browsing, creating, editing, and deleting real estate listings, developed as part of an assessment for Digital agency DTT.
-[![Project 1 Video](URL to Thumbnail)](URL to Video)
+[346074073-de034005-e525-435d-93dd-ac127fe9a7fe.webm](https://github.com/samanft/samanft/assets/25375434/bef8c295-3781-466c-a910-3ce5fa9dc258)
+
 
 ### Team Pokédex
 Explore and learn about various Pokémon, their types, abilities, and more.
-[![Project 2 Video](URL to Thumbnail)](URL to Video)
+
+
+https://github.com/samanft/samanft/assets/25375434/a21f2ee8-cf76-42d8-86cc-6cbe4eb68c23
+
+
 
 ### Wordle Clone
 A clone of the popular word-guessing game Wordle, featuring customizable difficulty settings for an adjustable challenge.
-https://github.com/samanft/spotify-recommendations/assets/25375434/4068ac98-2272-4ba3-a5ce-5a4ce748c7b2
+
+
+https://github.com/samanft/samanft/assets/25375434/ca63c51d-7103-4565-9b7d-c24d86a8e13f
+
+
 
 ### Spotify Recommendations Generator
 Provides music recommendations based on a user's top artists and tracks from Spotify.
