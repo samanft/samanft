@@ -21,5 +21,9 @@ https://github.com/samanft/spotify-recommendations/assets/25375434/4068ac98-2272
 
 ### Spotify Recommendations Generator
 Provides music recommendations based on a user's top artists and tracks from Spotify.
-https://github.com/samanft/samanft/assets/25375434/435c5d8f-b075-4ab9-bf6b-8020dde9abea
+
+
+https://github.com/samanft/samanft/assets/25375434/2c50ea38-0560-4e9a-81ee-8c1646566cd3
+
+
 
